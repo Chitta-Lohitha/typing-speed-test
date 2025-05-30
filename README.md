@@ -28,7 +28,8 @@ This is a simple yet powerful web application to measure your typing speed in **
 
 ## 📸 Screenshots
 
-> Add screenshots of your app here (optional)
+![Screenshot 2025-05-30 115814](https://github.com/user-attachments/assets/4bc4583a-542a-437f-b313-1a960b88b78b)
+
 
 ---
 
