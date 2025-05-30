@@ -39,7 +39,9 @@ This is a simple yet powerful web application to measure your typing speed in **
 ## 📁 Project Structure
 
 typing-speed-test/
+
 │
+
 ├── index.html # Main HTML structure
 
 ├── style.css # Styling and layout
@@ -58,4 +60,18 @@ typing-speed-test/
 1. Clone the repo:
    ```bash
    git clone https:https://github.com/Chitta-Lohitha/typing-speed-test.git
+
+---
+
+2.Navigate to the project folder:
+
+cd typing-speed-test
+
+Open index.html in your browser.
+
+---
+
+🧑‍💻 Author:
+Chitta Lohitha
+🌐 GitHub Profile
 
