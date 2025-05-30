@@ -64,14 +64,16 @@ typing-speed-test/
 ---
 
 2.Navigate to the project folder:
-
 cd typing-speed-test
-
 Open index.html in your browser.
 
 ---
 
 🧑‍💻 Author:
+
 Chitta Lohitha
+
 🌐 GitHub Profile
 
+---
+Enjoy coading ⭐🎉🥳
