@@ -1,4 +1,4 @@
-# ⌨️ Typing Speed Test App
+# ⌨️ Typing Speed Test App ⭐
 
 Welcome to the **Typing Speed Test App**! 🚀  
 This is a simple yet powerful web application to measure your typing speed in **words per minute (WPM)**. Built using **HTML, CSS, and JavaScript**, it's ideal for anyone looking to improve their typing skills.
@@ -64,16 +64,19 @@ typing-speed-test/
 ---
 
 2.Navigate to the project folder:
+
 cd typing-speed-test
+
 Open index.html in your browser.
 
 ---
 
-🧑‍💻 Author:
+##🧑‍💻 Author:
 
 Chitta Lohitha
 
-🌐 GitHub Profile
+🌐 https://github.com/Chitta-Lohitha
 
 ---
+
 Enjoy coading ⭐🎉🥳
