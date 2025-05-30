@@ -21,15 +21,8 @@ This is a simple yet powerful web application to measure your typing speed in **
 
 - 🔹 HTML5  
 - 🔹 CSS3  
-- 🔹 JavaScript (Vanilla JS)  
+- 🔹 JavaScript 
 - 🔹 Git & GitHub
-
----
-
-## 📸 Screenshots
-
-![Screenshot 2025-05-30 115814](https://github.com/user-attachments/assets/4bc4583a-542a-437f-b313-1a960b88b78b)
-
 
 ---
 
@@ -44,4 +37,24 @@ This is a simple yet powerful web application to measure your typing speed in **
 ---
 
 ## 📁 Project Structure
+
+typing-speed-test/
+│
+├── index.html # Main HTML structure
+├── style.css # Styling and layout
+└── script.js # App logic (timer, speed, accuracy)
+
+---
+
+## 🌐 Live Demo
+
+[🔗 View it on GitHub Pages]()  
+
+---
+
+## 📦 How to Run Locally
+
+1. Clone the repo:
+   ```bash
+   git clone https:
 
