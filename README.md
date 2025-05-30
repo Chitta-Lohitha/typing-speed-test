@@ -41,20 +41,21 @@ This is a simple yet powerful web application to measure your typing speed in **
 typing-speed-test/
 │
 ├── index.html # Main HTML structure
+
 ├── style.css # Styling and layout
+
 └── script.js # App logic (timer, speed, accuracy)
 
 ---
 
 ## 🌐 Live Demo
 
-[🔗 View it on GitHub Pages]()  
-
+(https://github.com/Chitta-Lohitha/typing-speed-test.git)
 ---
 
 ## 📦 How to Run Locally
 
 1. Clone the repo:
    ```bash
-   git clone https:
+   git clone https:https://github.com/Chitta-Lohitha/typing-speed-test.git
 
